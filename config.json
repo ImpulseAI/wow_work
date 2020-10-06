@@ -1,10 +1,4 @@
 {
-
-    "subjects": [
-        "eng", 
-        "math"
-        ], 
-        
-    "questions": 150
-    
+    "eng":20,
+    "questions": 150    
 }
